@@ -1,0 +1,10 @@
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\bin\Debug\SimpleRobot.exe.config
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\bin\Debug\SimpleRobot.exe
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\bin\Debug\SimpleRobot.pdb
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.csprojAssemblyReference.cache
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.Form1.resources
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.Properties.Resources.resources
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.csproj.GenerateResource.cache
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.csproj.CoreCompileInputs.cache
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.exe
+C:\Users\Brady\source\repos\SimpleRobot\SimpleRobot\obj\Debug\SimpleRobot.pdb
